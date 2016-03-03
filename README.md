@@ -7,4 +7,4 @@ then Image is Equalized (Pixels are evenly distributed).
 Stpes to run the code:
 1. Open MATLAB and select path, where fn_HistogramEqualization.m file is stored.
 2. Now give the image name as 'example.jpg'.
-3. 3. Run the code and see the result.
+3. Run the code and see the result.
